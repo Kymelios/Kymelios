@@ -1,6 +1,6 @@
 # Hi there, I'm Kymelios! 👋
 
-Hi, I'm Kymelios! I'm an embedded software engineer!
+I'm an embedded software engineer!
 
 ## 🔧 Technologies & Tools
 
