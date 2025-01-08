@@ -8,7 +8,7 @@ I'm an embedded software engineer!
 - **Embedded Systems:** AVR, Arduino
 - **Protocols:** SPI, I2C, UART
 - **Tools:** Git (Learning soon)
-- **IDEs:** VS Code, Arduino IDE
+- **IDEs:** VS Code, PlatformIO IDE, Arduino IDE
 
 ## 🌱 Currently Learning
 
