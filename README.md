@@ -7,14 +7,15 @@ I'm an embedded software engineer!
 - **Languages:** C
 - **Embedded Systems:** AVR, Arduino
 - **Protocols:** SPI, I2C, UART
-- **Tools:** Git (Learning soon)
+- **Tools:** Git
 - **IDEs:** VS Code, PlatformIO IDE, Arduino IDE
 
 ## 🌱 Currently Learning
 
-- SPI, I2C, UART protocols
+- SPI, UART protocols
 - Studying sensors and learning how to process sensor data for various applications (temperature, motion and etc.)
-- Git for version control (In future) 
+- Git for version control
+- Microcontrollers Structure: GPIO, ADC/DAC, Timers/Counters, PWM.
 
 ## 📈 GitHub Stats
 
