@@ -14,8 +14,8 @@ I'm an embedded software engineer!
 
 - SPI, UART protocols
 - Studying sensors and learning how to process sensor data for various applications (temperature, motion and etc.)
-- Git for version control
 - Microcontrollers Structure: GPIO, ADC/DAC, Timers/Counters, PWM.
+- STM32 Microcontorller, ARM Cortex-M
 
 ## 📈 GitHub Stats
 
