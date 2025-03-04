@@ -7,7 +7,7 @@ I'm an embedded software engineer!
 - **Languages:** C
 - **Embedded Systems:** AVR, Arduino
 - **Protocols:** SPI, I2C, UART
-- **Tools:** Git
+- **Tools:** Git, CMake
 - **IDEs:** VS Code, PlatformIO IDE, Arduino IDE
 
 ## 🌱 Currently Learning
