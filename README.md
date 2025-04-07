@@ -11,11 +11,9 @@ I'm an embedded software engineer!
 - **IDEs:** VS Code, PlatformIO IDE, Arduino IDE
 
 ## 🌱 Currently Learning
-
-- SPI, UART protocols
-- Studying sensors and learning how to process sensor data for various applications (temperature, motion and etc.)
-- Microcontrollers Structure: GPIO, ADC/DAC, Timers/Counters, PWM.
+- Studying C++, OOP, SOLID
 - STM32 Microcontorller, ARM Cortex-M
+- CAN protocol (in future)
 
 ## 📈 GitHub Stats
 
