@@ -4,7 +4,7 @@ I'm an embedded software engineer!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C
+- **Languages:** C, Python
 - **Embedded Systems:** AVR, Arduino
 - **Protocols:** SPI, I2C, UART
 - **Tools:** Git, CMake
