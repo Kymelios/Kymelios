@@ -22,7 +22,7 @@ I'm an embedded software engineer!
 ## 📫 Contact Information
 
 - **Email:** [andriymartunov131@gmail.com](mailto:andriymartunov131@gmail.com)
-- **LinkedIn:** [Andriy Martynov](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BC%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%B2-4147b9333)
+- **LinkedIn:** [Andriy Martynov](www.linkedin.com/in/andriymartunov)
 - **Instagram:** [@andriy_martunov](https://www.instagram.com/andriy_martunov/?igsh=ZGIzeDByaGQ0MWZm)
 
 ## 🔗 Projects (In progress)
